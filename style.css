@@ -359,3 +359,7 @@ footer {
     margin: 20px auto;  /* centraliza */
     border-radius: 6px;
 }
+
+.section img {
+    max-width: 450px;
+}
