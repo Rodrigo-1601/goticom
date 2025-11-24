@@ -350,3 +350,12 @@ footer {
     from { opacity: 0; }
     to { opacity: 1; }
 }
+
+.section img {
+    max-width: 600px;   /* largura máxima */
+    width: 100%;        /* fica responsivo */
+    height: auto;       /* mantém proporção */
+    display: block;
+    margin: 20px auto;  /* centraliza */
+    border-radius: 6px;
+}
