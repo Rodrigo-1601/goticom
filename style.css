@@ -363,3 +363,8 @@ footer {
 .section img {
     max-width: 450px;
 }
+
+img {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
